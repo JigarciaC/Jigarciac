@@ -12,7 +12,7 @@ Bienvenido a mi portafolio de proyectos de análisis de datos y machine learning
 ### Proyectos destacados
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|------------|
-| [Análisis de Datos con Google](#) | Proyecto final del programa de análisis de datos | Python, Pandas, Matplotlib |
+| [Cyclistic](#) | Proyecto final del programa de análisis de datos | Python, Pandas, Matplotlib |
 
 ### Conéctame conmigo
 - [LinkedIn](#) [Añade tu enlace]

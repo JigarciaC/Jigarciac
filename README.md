@@ -12,8 +12,8 @@ Bienvenido a mi portafolio de proyectos de análisis de datos y machine learning
 ### Proyectos destacados
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|------------|
-| [[Cyclistic](https://github.com/JigarciaC/Cyclistic)](#) | Proyecto final del programa de análisis de datos | Python, Pandas, Matplotlib |
+| [[Cyclistic](https://github.com/JigarciaC/Cyclistic)] | Proyecto final del programa de análisis de datos | Python, Pandas, Matplotlib |
 
 ### Conécta conmigo
 - [LinkedIn](#) [Añade tu enlace]
-- [Kaggle](#) [https://www.kaggle.com/joseivangarcia22]
+- [Kaggle](https://www.kaggle.com/joseivangarcia22) 

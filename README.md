@@ -3,7 +3,7 @@
 ## Data Analyst & ML enthusiast
 
 Bienvenido a mi portafolio de proyectos de análisis de datos y machine learning con aplicaciones en transporte y movilidad.
-Matemático y optimizador de procesos que se mantiene en formación continua en analítica avanzada para fortalecer la toma de decisiones informadas para enfrentar los nuevos desafios.
+Matemático y optimizador de procesos que se mantiene en formación continua para enfrentar los nuevos desafíos. Actualmente expandiendiendo mis habilidades en analítica avanzada para fortalecer la toma de decisiones informadas.
 
 ### Habilidades técnicas
 - **Lenguajes**: Python, SQL, R
